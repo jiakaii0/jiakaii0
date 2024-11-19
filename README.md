@@ -39,9 +39,9 @@ I am passionate about utilizing technology to drive business growth and improve 
 
 Here are some of the projects I've worked on that showcase my skills and experience. Each project includes a description, the technologies used, and a link to the project repository or live demo.
 
-### 1. [Project Name](link-to-project-repo)
-   - **Description**: Brief overview of what the project is about.
-   - **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
+### 1. [CV Bot](link-to-project-repo)
+   - **Description**: A chatbot that employers can use to ask question about the applicant.
+   - **Technologies Used**: Visual Studios, json, google Gemini
    - **Live Demo**: [Link to live demo or website]
    - **GitHub Repo**: [Link to GitHub repo]
 
