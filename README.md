@@ -41,7 +41,7 @@ Feel free to expand this section with any other relevant skills or technologies.
 
 Here are some of the projects I've worked on that showcase my skills and experience. Each project includes a description, the technologies used, and a link to the project repository or live demo.
 
-### 1. [Portfolio Chatbot](link-to-project-repo)
+### 1. [Portfolio Chatbot](https://www.youtube.com/watch?v=xvFZjo5PgG0)
    - **Description**: Create a chatbot that employers can ask question about the applicant
    - **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
    - **Live Demo**: [Link to live demo or website]
