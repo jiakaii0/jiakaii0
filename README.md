@@ -1,6 +1,6 @@
-# [Your Name] - Portfolio
+# Jia Kai Hong - Portfolio
 
-Welcome to my personal portfolio! I'm [Your Name], a passionate [Your Profession, e.g., Web Developer, Data Scientist, Software Engineer] with experience in [Key Skills or Technologies]. Below you'll find a collection of my projects and work that demonstrate my skills and expertise.
+Welcome to my personal portfolio! I'm Jia Kai Hong, I have aspiration to become a skilled business anaylsyt or data analyst with experience in SQL, Typescript and Json. Below you'll find a collection of my projects and work that demonstrate my skills and expertise.
 
 ## Table of Contents
 
@@ -13,7 +13,10 @@ Welcome to my personal portfolio! I'm [Your Name], a passionate [Your Profession
 
 ## About Me
 
-Brief introduction about yourself. Mention your background, what you're passionate about, and what you aim to achieve in your career. You can also include a link to your resume or CV.
+Dedicated and highly skilled MIS professional with a Master's degree in Management Information Systems 
+and a proven track record of leveraging technology to enhance business operations. Seeking a challenging 
+role in MIS or IT management to apply my expertise in aligning technology with organizational goals.
+
 
 Example:
 > Hi! I'm [Your Name], a [Your Profession] based in [Location]. I specialize in [Mention Areas of Expertise or Interests]. I love working on projects that [Explain your motivation or values], and I'm always eager to learn and collaborate with others.
