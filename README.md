@@ -51,7 +51,7 @@ Here are some of the projects I've worked on that showcase my skills and experie
    - **Live Demo**: [Link to live demo or website]
    - **GitHub Repo**: [Link to GitHub repo]
 
-## Languages
+## Spoken and Written
 
 - **Mandarin** – Native Speaker
 - **English** – Native Speaker
