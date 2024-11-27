@@ -24,10 +24,6 @@ I am passionate about utilizing technology to drive business growth and improve 
 - **Systems Analysis and Design**: UML, BPMN
 - **Project Management**: Agile, Scrum, PMP principles
 - **Data Analytics**: Python, R
-- **Cybersecurity**: Risk assessment, compliance
-- **ERP Systems**: SAP, Oracle E-Business Suite
-- **IT Governance**: COBIT, ITIL
-- **Cloud Computing**: AWS, Azure
 - **Salesforce**: CRM solutions and integration
 
 ### **Other Skills**
