@@ -31,10 +31,10 @@
 ---
 
 ## 🌟 Featured Projects
-- **[Project Name 1](link-to-project)**  
-  _Description of the project and technologies used._
-- **[Project Name 2](link-to-project)**  
-  _Description of the project and technologies used._
+- **[ChatApp](https://github.com/jiakaii0/Chatapp)**  
+  _A chatbot that utilizes Google AI using JAVA and TypeScript ._
+- **[Flappy-Pig](https://github.com/jiakaii0/Flappy-Pig)**  
+  _Flappy bird clone with Python._
 
 ---
 
@@ -42,4 +42,3 @@
 
 ## 🔗 Links
 - 📂 [My Portfolio](https://yourportfolio.com)
-- 💻 [My Projects](https://github.com/yourusername?tab=repositories)
