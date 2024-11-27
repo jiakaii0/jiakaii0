@@ -3,7 +3,7 @@
 [![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)](https://github.com/yourusername)
 
 ## 🚀 About Me
-🎓 I'm your typical nerdy gamer boy with aspiration in the tech sector.
+🎓 I'm your typical nerdy gamer boy with aspiration in the tech sector.<br/>
 🌱 I'm learning **More about Typescript and Java**.  
 📫 How to reach me: [jiakaii97@gmail.com](mailto:jiakaii97@gmail.com).
 
