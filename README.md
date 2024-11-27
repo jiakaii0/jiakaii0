@@ -57,8 +57,6 @@ Here are some of the projects I've worked on that showcase my skills and experie
 ## Contact
 
 Feel free to reach out to me through the following channels:
-
-- **Phone**: (316) 227-7220
 - **Email**: jiakaii97@gmail.com
 - **GitHub**: [GitHub Profile](https://github.com/yourusername)
 
